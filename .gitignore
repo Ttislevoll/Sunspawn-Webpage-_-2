@@ -9,6 +9,7 @@ node_modules/
 # testing
 /coverage
 venv/
+.env/
 # production
 __pycache__/
 .env.local

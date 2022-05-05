@@ -99,7 +99,7 @@ yarl = "==1.7.2"
 Pygments = "==2.11.2"
 PyJWT = "==1.7.1"
 PyYAML = "==5.4.1"
-flask = "==1.1.2"
+flask-cors = "*"
 
 [dev-packages]
 
