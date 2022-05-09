@@ -1,0 +1,10 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  frontend:
+    image: images-gallery-frontend
+    ports:
+      - "3000:3000"
+  api:
+    image: images-gallery-api
+    ports:
+      - "5050:5050"
